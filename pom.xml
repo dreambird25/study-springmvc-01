@@ -122,6 +122,18 @@
       <version>2.3.3</version>
     </dependency>
 
+   <!--jstl-->
+    <dependency>
+      <groupId>jstl</groupId>
+      <artifactId>jstl</artifactId>
+      <version>1.2</version>
+    </dependency>
+    <dependency>
+      <groupId>taglibs</groupId>
+      <artifactId>standard</artifactId>
+      <version>1.1.2</version>
+    </dependency>
+
     <!--mybatis分页工具-->
     <dependency>
       <groupId>com.github.pagehelper</groupId>
